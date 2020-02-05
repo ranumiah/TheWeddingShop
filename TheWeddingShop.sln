@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheWeddingShop", "TheWeddingShop\TheWeddingShop.csproj", "{7E347FD5-BFF0-4E16-B539-375000958472}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheWeddingShop.Tests", "TheWeddingShop.Tests\TheWeddingShop.Tests.csproj", "{7821FA31-E2E0-4A76-BC38-1A2FAACDEF1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E347FD5-BFF0-4E16-B539-375000958472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E347FD5-BFF0-4E16-B539-375000958472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E347FD5-BFF0-4E16-B539-375000958472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E347FD5-BFF0-4E16-B539-375000958472}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7821FA31-E2E0-4A76-BC38-1A2FAACDEF1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7821FA31-E2E0-4A76-BC38-1A2FAACDEF1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7821FA31-E2E0-4A76-BC38-1A2FAACDEF1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7821FA31-E2E0-4A76-BC38-1A2FAACDEF1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7528C1C-82B0-48AE-A9BC-2ED3C9679875}
+	EndGlobalSection
+EndGlobal
